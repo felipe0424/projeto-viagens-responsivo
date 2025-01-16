@@ -1,0 +1,12 @@
+.rodape {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  box-sizing: border-box;
+  margin: 24px 0 24px 0;
+}
+
+.terms {
+  display: flex;
+  gap: 24px;
+}
