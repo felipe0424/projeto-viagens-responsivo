@@ -18,7 +18,7 @@
 }
 
 #info {
-  max-width: 384px;
+  width: auto;
 }
 
 #info h1 {
@@ -45,4 +45,32 @@
   display: flex;
   align-items: center;
   gap: 8px;
+}
+
+@media (max-width: 720px) {
+  .about {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-top: 32px;
+  }
+
+  #profile {
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  #list {
+    text-decoration: none;
+    list-style: none;
+    margin-top: 32px;
+  }
+
+  #list li {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    gap: 8px;
+  }
 }

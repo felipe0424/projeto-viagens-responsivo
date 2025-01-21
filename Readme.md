@@ -1,13 +1,13 @@
 <body>
     <div align="center">
         <a href="https://felipe0424.github.io/projeto-viagens/" target="_blank">
-        <img src="assets/images/Thumbnail.png" alt="Travelgram" width="auto">
+        <img src="assets/images/Thumbnail.svg" alt="Travelgram" width="auto">
         </a>
     </div>
 </body>
 
 # :rocket: Sobre o Projeto
-O projeto "Travelgram" de Nível 2 visa aperfeiçoar a usabilidade de HTML5, CSS3 e a gestão de projetos, enfatizando a organização das informações em divs e a divisão de blocos, com títulos e descrições claras.
+O projeto "Travelgram" de Nível 3 visa aperfeiçoar a usabilidade de HTML5, CSS3, responsividade e a gestão de projetos, enfatizando a organização das informações em divs e a divisão de blocos, com títulos e descrições claras.
 
 ### Objetivos
 HTML5: Utilização das novas tags semânticas para melhorar a estrutura e acessibilidade do conteúdo.

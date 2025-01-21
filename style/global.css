@@ -47,3 +47,11 @@ a:hover {
   background-color: var(--surface-color);
   padding: 0 0 32px 0;
 }
+
+@media (width <= 720px) {
+  .conteiner {
+    padding-inline: 24px;
+    max-width: 720px;
+    margin-inline: auto;
+  }
+}
